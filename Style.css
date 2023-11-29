@@ -1,0 +1,152 @@
+html, body {
+    background-color: lightgrey;
+    font-style: normal;
+}
+.main-content {
+    padding: 25px;
+
+}
+
+p.content {font-size: 22px;
+    margin: 10px;
+}
+p.content2 {}
+.box { background-color: white;
+    margin: auto;
+    padding: 15px;
+    width: 900px;
+}
+.box2 { width: 550px;
+    padding: 50px;
+    margin: auto;
+
+}
+.menu {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 19px;
+}
+.brand {
+    font-size: 21px;
+    font-weight: 1000;
+}
+.pic3 {
+    width: 100%;
+}
+img {
+    width: 100%; 
+}
+.pic2 {
+    width: 100%;
+}
+.top-header {
+    background-color: rgb(63, 63, 63) ;
+    padding: 25px
+}
+footer {
+    background-color: rgb(184, 182, 182);
+    padding: 30px;
+    text-align: center;
+}
+.content2 {font-size: 22px;
+}
+
+
+.hero3 {
+    text-align: center;
+}
+.li1 {
+}
+span {
+    border: solid red;
+}
+th {
+    text-align: left;
+  }
+  
+  table,tr,th,td {
+    border: 1px solid black;
+  }
+  td {
+    background-color: lightgreen
+  }
+  table {
+    width: 25cm;
+    margin: 20px;
+    font-size: 22px;
+  }
+
+div.bottom {
+    padding: 20px;
+    width: 15cm;
+    margin: auto;
+    font-size: 22px;
+    background-color: white;
+
+}
+div.inside {
+    background-color:lightgreen;
+    padding: 10px;
+    text-align: center;
+}
+h1.inside {
+}
+div.inlineBlock {
+    margin: 5px;
+    padding: 10px;
+    background-color:lightgreen;
+    text-align: center;
+}
+div.hello {
+    padding: 30px;
+    display:inline-block;
+    margin: 10px;
+    width: 200px;
+    background-color:lightgreen;
+}
+div.inside3 {
+    background-color:white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+div.inside2 {
+    background-color: lightgreen;
+    text-align: center;
+}
+h2.headContent{
+}
+h2.headBottom {
+    text-align: center;
+}
+div.huakuy {
+    width: 1000px;
+    margin: auto;
+}
+h1.hero {
+    border-bottom: 8px dotted rgb(0, 0, 0);
+    padding: 5px;
+    width: 98%;
+}
+th.th1 {
+    text-align: center;
+}
+td.tdh {
+    text-align: center;
+}
+span.p2 {
+    font-style: italic;
+}
+h2 {
+    font-size: 25px;
+}
+li {
+    font-size: 22px;
+}
+h2.headBottom {
+    text-align: center;
+}
+b.b2 {
+    font-style: italic;
+}
